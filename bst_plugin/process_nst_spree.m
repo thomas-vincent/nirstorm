@@ -30,7 +30,7 @@ function sProcess = GetDescription() %#ok<DEFNU>
     % Description the process
     sProcess.Comment     = 'Spline-regularized response estimation';
     sProcess.Category    = 'Custom';
-    sProcess.SubGroup    = 'NIRS - Wip';
+    sProcess.SubGroup    = 'NIRS - wip';
     sProcess.Index       = 1409;
     sProcess.Description = '';
     
